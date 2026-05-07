@@ -1,4 +1,3 @@
-import React from 'react'
 import { motion } from 'framer-motion'
 import { Globe, MessageCircle, Mail, Code2, ExternalLink, Sparkles, Terminal } from 'lucide-react'
 import profileImg from './assets/profile.jpeg'
@@ -53,7 +52,7 @@ const App = () => {
               <span>Available for Hire</span>
             </div>
             <h1>Hi, I'm <span className="gradient-text">San</span></h1>
-            <p className="subtitle">Self-Taught Frontend Developer</p>
+            <p className="subtitle">Self-Taught Fullstack Developer</p>
             <p className="description">
               Crafting digital experiences with a focus on <strong>interactivity</strong> and <strong>modern design</strong>.
               Turning complex problems into elegant user interfaces.
