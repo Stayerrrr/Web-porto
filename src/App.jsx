@@ -54,8 +54,8 @@ const App = () => {
             <h1>Hi, I'm <span className="gradient-text">San</span></h1>
             <p className="subtitle">Self-Taught Fullstack Developer</p>
             <p className="description">
-              Crafting digital experiences with a focus on <strong>interactivity</strong> and <strong>modern design</strong>.
-              Turning complex problems into elegant user interfaces.
+              Building scalable end-to-end applications with a focus on <strong>robust backends</strong> and <strong>dynamic interfaces</strong>.
+              Bridging the gap between complex system logic and seamless user experiences.
             </p>
           </motion.div>
         </motion.section>

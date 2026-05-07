@@ -1,6 +1,6 @@
 # Web Portfolio - San
 
-A modern, interactive personal portfolio website built with React, Vite, and Framer Motion. This project showcases my skills, experience, and projects as a self-taught frontend developer.
+A modern, interactive personal portfolio website built with React, Vite, and Framer Motion. This project showcases my skills, experience, and projects as a self-taught fullstack developer.
 
 ## ✨ Features
 
